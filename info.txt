@@ -3,4 +3,3 @@ Bangalore
 JP Morgon Chase
 Architech
 Git, Jenkins, Docker & kubernetes.
-Some Changes
